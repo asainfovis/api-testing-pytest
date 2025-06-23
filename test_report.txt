@@ -1,0 +1,9 @@
+============================= test session starts =============================
+platform win32 -- Python 3.13.4, pytest-8.4.0, pluggy-1.6.0
+rootdir: C:\Users\3808\projects\demo_project\api_testing_reqres
+plugins: allure-pytest-2.14.3, anyio-4.9.0, html-4.1.1, metadata-3.1.1, sugar-1.0.0, xdist-3.7.0, requests-mock-1.12.1
+collected 4 items
+
+tests\test_users.py ....                                                 [100%]
+
+============================== 4 passed in 1.39s ==============================
